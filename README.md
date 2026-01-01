@@ -8,13 +8,11 @@ To run this project, user has to have:
 
 In this project, I have developed automated test scripts with key focus on testing the functionalities of OrangeHRM application. OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements. 
 
-In addition, I have created test cases to be automated which also encompass both positive and negative scenarios, to ensure the testing has wider coverage. 
+In addition, I have created test cases to be automated which also encompass both positive and negative scenarios, to ensure the testing has wider coverage. All the test cases are available in details from the excel file named "TestCases" attached in this github folder.
 
 The project framework is illustrated as below image.
 
 <img width="997" height="540" alt="image" src="https://github.com/user-attachments/assets/6f775b3d-c4b3-4dca-a3dd-31bbf17fdfc6" />
-
-All the test cases are available in details from the excel file named "TestCases" attached in this github folder.
 
 To run the test cases. The project can be run through using testNg.xml file as per below. 
 
