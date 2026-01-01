@@ -10,10 +10,9 @@ The project framework is illustrated as below image.
 
 <img width="997" height="540" alt="image" src="https://github.com/user-attachments/assets/6f775b3d-c4b3-4dca-a3dd-31bbf17fdfc6" />
 
-The project can be run through using testNg.xml file as per below.
+All the test cases are available in details from the excel file named "TestCases" attached in this github folder.
+To run the test cases. The project can be run through using testNg.xml file as per below. 
 
 <img width="722" height="588" alt="image" src="https://github.com/user-attachments/assets/25e7e680-6577-43db-82b9-8ad96544d765" />
 
-A report file will be generated to reflect the result of the ui testing.
-
-<img width="1236" height="685" alt="image" src="https://github.com/user-attachments/assets/e29b0f4a-ffbb-48d8-aced-009c1d3a47b1" />
+A report file will be generated once test is finished running.
