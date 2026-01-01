@@ -6,11 +6,9 @@ To run this project, user has to have:
 3) Selenium
 4) TestNG
 
-In this project, I have developed automated test scripts with key focus on testing the functionalities of OrangeHRM application.
+In this project, I have developed automated test scripts with key focus on testing the functionalities of OrangeHRM application. OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements. 
 
 In addition, I have created test cases to be automated which also encompass both positive and negative scenarios, to ensure the testing has wider coverage. 
-
-OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements. 
 
 The project framework is illustrated as below image.
 
