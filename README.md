@@ -1,5 +1,11 @@
 This project demonstrates my skill in using Java, Selenium Webdriver and TestNG framework to automate web application testing.
 
+To run this project, user has to have:
+1) Java
+2) Eclipse
+3) Selenium
+4) TestNG
+
 In this project, I have developed automated test scripts with key focus on testing the functionalities of OrangeHRM application.
 
 In addition, I have created test cases to be automated which also encompass both positive and negative scenarios, to ensure the testing has wider coverage. 
