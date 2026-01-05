@@ -11,13 +11,36 @@
       </run>
     </groups>
     <classes>
+      <class name="LoginTestCases.TC0003_LoginTest">
+        <methods>
+          <include name="LogoutTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- LoginTestCases.TC0003_LoginTest -->
+      <class name="LoginTestCases.TC0002_LoginTest">
+        <methods>
+          <include name="checkLoginLogoTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- LoginTestCases.TC0002_LoginTest -->
       <class name="LoginTestCases.TC0001_LoginTest">
         <methods>
-          <include name="loginTest" invocation-numbers="1 2"/>
+          <include name="loginTest"/>
           <include name="teardown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- LoginTestCases.TC0001_LoginTest -->
+      <class name="LoginTestCases.TC0004_LoginTest">
+        <methods>
+          <include name="verifyConfirmErrorMessage"/>
+          <include name="verifyCurrentErrorMessage"/>
+          <include name="login"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- LoginTestCases.TC0004_LoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
