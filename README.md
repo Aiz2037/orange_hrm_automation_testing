@@ -1,15 +1,20 @@
-This project demonstrates my skill in using Java, Selenium Webdriver and TestNG framework to automate web application testing.
+This is a project to demonstrate my skills to automate testing of OrangeHRM website using Java and Selenium. The program was written to follow POM pattern format.
 
-To run this project, user has to have:
-1) Java
-2) Eclipse
-3) Selenium
-4) TestNG
+In short, OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. 
 
-In this project, I have developed automated test scripts with key focus on testing the functionalities of OrangeHRM application. OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements. 
+The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements to perform specific task. For this demonstration, I have created few test cases which also encompass both positive and negative scenarios, to be automated. Some of the test cases are as below:
 
-In addition, I have created test cases to be automated which also encompass both positive and negative scenarios, to ensure the testing has wider coverage. All the test cases are available in details from the excel file named "TestCases" attached in this github folder.
+**LoginTest**
+- TC0001: Verify login with valid and invalid credentials.
+- TC0002: Verify able to load login page.
+- TC0003: Verify full flow from login to logout process.
+- TC0004: Verify unable change password error if given invalid current password and invalid confirm password.
 
+**DashboardTest**
+- TC0001: Verify seven cards in the dashboard page are exist.
+
+**MyInfoTest**
+- 
 The project framework is illustrated as below image.
 
 <img width="997" height="540" alt="image" src="https://github.com/user-attachments/assets/6f775b3d-c4b3-4dca-a3dd-31bbf17fdfc6" />
