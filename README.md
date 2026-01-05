@@ -13,10 +13,13 @@ The main page of OrangeHRM contains many user interfaces which allow users to in
 
 **MyInfoTest**
 - 
+
 The project framework is illustrated as below image.
 
 <img width="997" height="540" alt="image" src="https://github.com/user-attachments/assets/6f775b3d-c4b3-4dca-a3dd-31bbf17fdfc6" />
 
+Getting started:
+----------------
 To run the test cases. The project can be run through using testNg.xml file as per below. 
 
 <img width="722" height="588" alt="image" src="https://github.com/user-attachments/assets/25e7e680-6577-43db-82b9-8ad96544d765" />
