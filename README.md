@@ -1,6 +1,4 @@
-This is a project to demonstrate my skills to automate testing of OrangeHRM website using Java and Selenium. The program was written to follow POM pattern format.
-
-In short, OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. 
+This is a project to demonstrate my skills to automate testing of OrangeHRM website using Java and Selenium. The program was written to follow POM pattern format. In short, OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best known for its Human resource management system. 
 
 The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements to perform specific task. For this demonstration, I have created few test cases which also encompass both positive and negative scenarios, to be automated. Some of the test cases are as below:
 
