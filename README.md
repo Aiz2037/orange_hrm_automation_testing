@@ -3,10 +3,11 @@ This is a project to demonstrate my skills to automate testing of OrangeHRM webs
 The main page of OrangeHRM contains many user interfaces which allow users to interact the web elements to perform specific task. For this demonstration, I have created few test cases which also encompass both positive and negative scenarios, to be automated. Some of the test cases are as below:
 
 **LoginTest**
-- TC0001: Verify login with valid and invalid credentials.
-- TC0002: Verify able to load login page.
-- TC0003: Verify full flow from login to logout process.
-- TC0004: Verify unable change password error if given invalid current password and invalid confirm password.
+- TC0001: Verify login successful with valid credentials.
+- TC0002: Verify login should be unable with invalid credentials.
+- TC0003: Verify able to load login page.
+- TC0004: Verify full flow from login to logout process.
+- TC0005: Verify unable change password error if given invalid current password and invalid confirm password.
 
 **DashboardTest**
 - TC0001: Verify seven cards in the dashboard page are exist.
