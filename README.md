@@ -13,7 +13,7 @@ The main page of OrangeHRM contains many user interfaces which allow users to in
 - TC0001: Verify seven cards in the dashboard page are exist.
 
 **MyInfoTest**
-- 
+- TC0001: Verify user able to navigate to 10 sidebar menus in MyInfo page.
 
 Project framework:
 ------------------
