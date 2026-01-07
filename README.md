@@ -15,6 +15,8 @@ The main page of OrangeHRM contains many user interfaces which allow users to in
 **MyInfoTest**
 - TC0001: Verify user able to navigate to 10 sidebar menus in MyInfo page.
 
+**Sidebar menu**
+- TC0001: Verify all sidebar menus are exists.
 Project framework:
 ------------------
 The project framework is illustrated as below image.
